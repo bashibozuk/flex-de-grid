@@ -24,6 +24,7 @@ Add following to your src/styles.css
 
 #### Vue
 Add following to your main.js
+
 ```js
 require('flex-grid/dist/flex-grid.min.css');
 ```
