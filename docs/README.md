@@ -1,8 +1,6 @@
 Getting Started
 ---------------
 
-### Usage
-
 #### Via CDN
 
 Copy-paste the stylesheet `<link>` into your `<head>` before all other stylesheets to load our CSS
@@ -27,3 +25,6 @@ Add following to your styles.css
 ```css
 //TODO
 ```
+
+Usage
+---------------
