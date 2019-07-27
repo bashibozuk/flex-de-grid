@@ -34,4 +34,4 @@ require('flex-grid/dist/flex-grid.min.css');
 
 Usage
 ---------------
-Check [docs/usage.html](docs/usage.html).
+Check [usage.html](usage.html).
