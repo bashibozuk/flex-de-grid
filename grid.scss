@@ -1,0 +1,19 @@
+$col-size:12;
+
+@mixin cols($prefix, $separator, $columns) {
+    @for $i from 1 to $col-size + 1 {
+        .#{$prefix}#{$separator}#{$i} {
+            width: 100% * ($i/$columns);
+        }
+    }
+}
+
+
+
+body.flex-grid {
+    
+
+    @include cols(col, '-' , $col-size);
+
+    
+}

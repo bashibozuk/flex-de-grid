@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+    body.flex-grid {
+        height: 100%;
+        .container-fluid {
+            width: 100%;
+            height: 100%;
+            display: block;
+        }
+    }
+}

@@ -1,0 +1,73 @@
+$container-padding-sm: 0.3rem;
+$container-padding-md: 0.5rem;
+$container-padding-lg: 0.8rem;
+$container-padding-xl: 1.3rem;
+@mixin container($direction) {
+    display: flex;
+    flex-direction: $direction;
+    padding-left: $container-padding-sm;
+    padding-right: $container-padding-sm;
+    padding-left: $container-padding-md;
+    padding-right: $container-padding-md;
+    .padding-sm {
+        padding-left: $container-padding-sm;
+        padding-right: $container-padding-sm;
+    }
+    .padding-lg {
+        padding-left: $container-padding-lg;
+        padding-right: $container-padding-lg;
+    }
+    .padding-xl {
+        padding-left: $container-padding-xl;
+        padding-right: $container-padding-xl;
+    }
+}
+
+@mixin flex-props($align) {
+    &.center {
+        justify-content: center
+    }
+    .stretch {
+        flex-grow: 1;
+    }
+
+    &.stretch {
+        flex-grow: 1;
+    }
+
+    .shrink {
+        flex-shrink: 1;
+    }
+
+    &.shrink {
+        flex-shrink: 1;
+    }
+    
+    &.items-start {
+        #{$align}: flex-start;
+    }
+    &.items-end {
+        #{$align}: flex-end;
+    }
+    &.items-center {
+        #{$align}: center;
+    }
+    &.items-baseline {
+        #{$align}: baseline;
+    }
+}
+
+body.flex-grid {
+    
+
+    .row-h {
+        @include container(row);
+        @include flex-props(justify-content);
+    }
+
+    .row-v {
+        @include container(column);
+        @include flex-props(align-items);
+    }
+    
+}
