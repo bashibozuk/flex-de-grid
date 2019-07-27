@@ -11,8 +11,8 @@
 
         // directory locations
         dir = {
-            src         : 'scss/',
-            build       : 'css/'
+            src         : 'src/',
+            build       : 'dist/'
         },
 
         // modules
