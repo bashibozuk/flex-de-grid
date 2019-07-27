@@ -19,7 +19,10 @@
   ],
   "author": "Vasil Atanasov",
   "license": "MIT",
-
+  "bugs": {
+    "url": "https://github.com/bashibozuk/flex-grid/issues"
+  },
+  "homepage": "https://github.com//bashibozuk/flex-grid",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-minify-css": "^1.2.4",
