@@ -1,6 +1,7 @@
 Getting Started
 ---------------
 
+### CSS
 #### Via CDN
 
 Copy-paste the stylesheet `<link>` into your `<head>` before all other stylesheets to load our CSS
@@ -26,6 +27,11 @@ Add following to your main.js
 ```js
 require('flex-grid/dist/flex-grid.min.css');
 ```
+### SCSS
+``` js
+//TODO
+```
 
 Usage
 ---------------
+Check [docs/usage.html](docs/usage.html).

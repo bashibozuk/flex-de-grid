@@ -16,7 +16,7 @@ $ bower install --save flex-grid
 ```
 
 ## Documentation
-Documentation is at [docs/guide/README.md](docs/README.md).
+Documentation is at [docs/README.md](docs/README.md).
 
 
 ## License
