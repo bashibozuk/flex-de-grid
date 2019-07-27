@@ -3,11 +3,12 @@
   "version": "0.0.0-PLACEHOLDER",
   "description": "CSS framework for building layouts using CSS flex API",
   "homepage": "https://github.com/johnotander/flexbox",
+  "main": "css/flex-grid.min.css",
   "keywords": [
     "css3",
     "css",
     "flex-grid",
-    "flexbox css",
+    "flex API",
     "media query"
   ],
   "author": "Vasil Atanasov",

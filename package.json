@@ -2,7 +2,7 @@
   "name": "flex-grid",
   "version": "0.0.0-PLACEHOLDER",
   "description": "CSS framework for building layouts using CSS flex API",
-  "main": "index.js",
+  "main": "css/flex-grid.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,7 @@
     "css3",
     "css",
     "flex-grid",
-    "flexbox css",
+    "flexbox API",
     "media query"
   ],
   "author": "Vasil Atanasov",
