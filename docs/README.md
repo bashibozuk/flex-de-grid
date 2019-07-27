@@ -10,7 +10,7 @@ Copy-paste the stylesheet `<link>` into your `<head>` before all other styleshee
 ```
 
 #### Angular 
-Add following to your styles.css
+Add following to your src/styles.css
 
 ```css
 @import '~flex-grid/dist/flex-grid.min.css';
