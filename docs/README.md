@@ -29,10 +29,25 @@ Add following to your main.js
 require('flex-grid/dist/flex-grid.min.css')
 ```
 ### SCSS
-``` js
-//TODO
-```
 
+#### Angular
+``` scss
+//TODO
+
+```
+#### React
+``` scss
+//TODO
+
+```
+#### Vue
+Add to App.vue
+``` scss
+<style lang="scss">
+  @import "../node_modules/flex-grid/src/flex-grid.scss";
+</style>
+
+```
 Usage
 ---------------
 Check [usage.html](usage.html).
