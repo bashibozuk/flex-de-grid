@@ -1,4 +1,4 @@
-# Flexbox
+# Flex Grid
 
 CSS framework for building layouts using CSS flex API
 ## Installation
