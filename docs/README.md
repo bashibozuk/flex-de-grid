@@ -26,7 +26,7 @@ Add following to your src/styles.css
 Add following to your main.js
 
 ```js
-require('flex-grid/dist/flex-grid.min.css');
+require('flex-grid/dist/flex-grid.min.css')
 ```
 ### SCSS
 ``` js
