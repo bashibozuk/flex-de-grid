@@ -1,8 +1,9 @@
 {
   "name": "flex-grid",
   "version": "0.0.0-PLACEHOLDER",
-  "description": "CSS framework for building layouts using CSS flex API",
+  "description": "Framework for building layouts using flex API",
   "main": "dist/flex-grid.min.css",
+  "unpkg": "dist/flex-grid.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

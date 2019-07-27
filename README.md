@@ -1,6 +1,6 @@
 # Flex Grid
 
-CSS framework for building layouts using CSS flex API
+Framework for building layouts using CSS flex API
 ## Installation
 
 Install via npm:
@@ -15,16 +15,16 @@ Install via bower:
 $ bower install --save flex-grid
 ```
 
-## Usage
-```
-//TODO
-```
+## Documentation
+Documentation is at [docs/README.md](docs/README.md).
+
 
 ## License
 
 MIT
 
 ## Contributing
+
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-fancy-feature`)
