@@ -43,7 +43,7 @@
             .pipe(gulp.dest(cssConfig.build))
             .pipe(cssmin())
             .pipe(rename({ suffix: '.min' }))
-            .pipe(gulp.dest('css'));
+            .pipe(gulp.dest(cssConfig.build));
 
     }
     exports.css = gulp.series(css);
