@@ -25,7 +25,7 @@
     console.log('Gulp', devBuild ? 'development' : 'production', 'build');
     const cssConfig = {
 
-        src         : dir.src + 'flex-grid.scss',
+        src         : dir.src + 'flex-de-grid.scss',
         watch       : dir.src + '/*',
         build       : dir.build + '',
         sassOpts: {

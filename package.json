@@ -1,29 +1,29 @@
 {
-  "name": "flex-grid",
+  "name": "flex-de-grid",
   "version": "0.0.0-PLACEHOLDER",
   "description": "Framework for building layouts using flex API",
-  "main": "dist/flex-grid.min.css",
-  "unpkg": "dist/flex-grid.min.css",
+  "main": "dist/flex-de-grid.min.css",
+  "unpkg": "dist/flex-de-grid.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bashibozuk/flex-grid.git"
+    "url": "https://github.com/bashibozuk/flex-de-grid.git"
   },
   "keywords": [
     "css3",
     "css",
-    "flex-grid",
+    "flex grid",
     "flexbox API",
     "media query"
   ],
   "author": "Vasil Atanasov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bashibozuk/flex-grid/issues"
+    "url": "https://github.com/bashibozuk/flex-de-grid/issues"
   },
-  "homepage": "https://github.com//bashibozuk/flex-grid",
+  "homepage": "https://github.com//bashibozuk/flex-de-grid",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-minify-css": "^1.2.4",
