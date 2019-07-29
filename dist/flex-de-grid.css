@@ -121,3 +121,9 @@ body.flex-de-grid .row-v {
 
 .text.right {
   text-align: right; }
+
+body.flex-de-grid .fdg-form .fdg-form-field-container {
+  padding: 0.3 rem; }
+
+body.flex-de-grid .fdg-form.vertical .fdg-form-field-container {
+  width: 100%; }
