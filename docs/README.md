@@ -7,14 +7,14 @@ Getting Started
 Copy-paste the stylesheet `<link>` into your `<head>` before all other stylesheets to load our CSS
 
 ```html
-<link rel="stylesheet" href="https://unpkg.com/flex-grid/dist/flex-grid.min.css">
+<link rel="stylesheet" href="https://unpkg.com/flex-de-grid/dist/flex-de-grid.min.css">
 ```
 
 #### Angular 
 Add following to your src/styles.css
 
 ```css
-@import '~flex-grid/dist/flex-grid.min.css';
+@import '~flex-de-grid/dist/flex-de-grid.min.css';
 ```
 
 #### React
@@ -26,7 +26,7 @@ Add following to your src/styles.css
 Add following to your main.js
 
 ```js
-require('flex-grid/dist/flex-grid.min.css')
+require('flex-de-grid/dist/flex-de-grid.min.css')
 ```
 ### SCSS
 
@@ -44,7 +44,7 @@ require('flex-grid/dist/flex-grid.min.css')
 Add to App.vue
 ``` scss
 <style lang="scss">
-  @import "../node_modules/flex-grid/src/flex-grid.scss";
+  @import "../node_modules/flex-de-grid/src/flex-de-grid.scss";
 </style>
 
 ```

@@ -6,13 +6,13 @@ Framework for building layouts using CSS flex API
 Install via npm:
 
 ```
-$ npm install --save flex-grid
+$ npm install --save flex-de-grid
 ```
 
 Install via bower:
 
 ```
-$ bower install --save flex-grid
+$ bower install --save flex-de-grid
 ```
 
 ## Documentation

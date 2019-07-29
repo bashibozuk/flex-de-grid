@@ -10,7 +10,7 @@ $col-size:12;
 
 
 
-body.flex-grid {
+body.flex-de-grid {
     
 
     @include cols(col, '-' , $col-size);
