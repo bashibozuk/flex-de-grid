@@ -1,6 +1,6 @@
 {
   "name": "flex-de-grid",
-  "version": "0.0.0-PLACEHOLDER",
+  "version": "0.0.1-alpha",
   "description": "Framework for building layouts using flex API",
   "main": "dist/flex-de-grid.min.css",
   "unpkg": "dist/flex-de-grid.min.css",
